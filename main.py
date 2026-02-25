@@ -21,7 +21,7 @@ DEFAULT_SETTINGS = {
     "enabled": True,
     "channel_id": None,
     "title": "Welcome to {server}!",
-    "description": "Hey {user}!
+    "description": "Hey {user}!"
 
 Welcome to the server! We now have {membercount} members!
 Enjoy your stay! 🎉",
