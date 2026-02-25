@@ -24,7 +24,7 @@ DEFAULT_SETTINGS = {
     "description": "Hey {user}!"
 
 Welcome to the server! We now have {membercount} members!
-Enjoy your stay! 🎉",
+"Enjoy your stay! 🎉",
     "color": "#00ff00",
     "image_url": None,
     "use_user_avatar": True,
